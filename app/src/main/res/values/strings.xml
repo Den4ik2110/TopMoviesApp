@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Мой топ</string>
+    <string name="hallo">Привет!</string>
+    <string name="buttomTopMovies">Топ фильмов</string>
+    <string name="buttomNewFilm">Добавить фильм</string>
+    <string name="textMotivationNameMovie">Напишите название фильма</string>
+    <string name="nameMovie">Название фильма</string>
+    <string name="setParameters">Ввести параметры</string>
+    <string name="saveWithoutParameters">Сохранить без параметров</string>
+    <string name="back">Назад</string>
+    <string name="setParametersFrom1To10">Выберите значение параметров от 1 до 10</string>
+    <string name="humor">Юмор</string>
+    <string name="music">Музыка</string>
+    <string name="dynamic">Динамика</string>
+    <string name="image">Картинка</string>
+    <string name="dialogs">Диалоги</string>
+    <string name="heroes">Герои</string>
+    <string name="antiheroes">Злодеи</string>
+    <string name="story">Сюжет</string>
+    <string name="drama">Драма</string>
+    <string name="watchAgain">Посмотрю снова</string>
+    <string name="saveAll">Сохранить все</string>
+</resources>
